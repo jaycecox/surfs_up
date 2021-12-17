@@ -1,6 +1,2 @@
-pip install Flask
-pip install psycopg2-binary
-app = Flask(__name__)
-@app.route('/')
-def hello_world():
-    return 'Hello world'
+from flask import Flask , jsonify
+import datetime as dt 
