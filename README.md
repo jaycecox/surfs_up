@@ -15,7 +15,7 @@ W. Avy likes your analysis, but he wants more information about temperature tren
 ### June Weather Summary
 Average June temperature in Oahu, HI is 74.9 degrees F.<br>
     -Highest temperature was 85.0 degrees F.<br>
-    -Lowerst temperature was 64.0 degrees F. 
+    -Lowerst temperature was 64.0 degrees F. <br>
     -The difference (range) between the high and low is 21 degrees F. 
 
 ![june_temp_hist](./Images/June_temps_hist.png)
@@ -26,7 +26,7 @@ Average June temperature in Oahu, HI is 74.9 degrees F.<br>
 ### December Weather Summary
 Average December temperature in Oahu, HI is 71.0 degrees F.<br>
     -Highest temperature was 83.0 degrees F.<br>
-    -Lowerst temperature was 56.0 degrees F. 
+    -Lowerst temperature was 56.0 degrees F. <br>
     -The difference (range) between the high and low is 27 degrees F.
 
 ![dec_temp_summary_stats](./Images/dec_temp_summary_stats.png)
