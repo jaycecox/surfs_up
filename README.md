@@ -29,6 +29,8 @@ Average December temperature in Oahu, HI is 71.0 degrees F.<br>
     -Lowerst temperature was 56.0 degrees F. <br>
     -The difference (range) between the high and low is 27 degrees F.
 
+![dec_temp_hist](./Images/dec_temps_hist.png)
+
 ![dec_temp_summary_stats](./Images/dec_temp_summary_stats.png)
 
 
