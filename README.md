@@ -37,5 +37,6 @@ Average December temperature in Oahu, HI is 71.0 degrees F.<br>
 ### June versus December Temperatures
 * The average temperatures are warmer in June than in December. 
 * The range of temperatures is greater for December than for June. 
+* The difference between the average temperatures for both June and December is only 3.9 degrees. We are certain that an ice cream and surf shop would be ideal in a summer month such as June; so with only a 3.9 degree difference in average temperature, December appears to be a relatively comparable month to June for weather and thusly would be comparable month for sales. 
 
 
